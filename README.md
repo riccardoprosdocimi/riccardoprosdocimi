@@ -67,23 +67,30 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 ## 🚀 Projects
 ⬇️ Scroll all the way down to view my pinned projects.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=raw-sockets)](https://github.com/riccardoprosdocimi/raw-sockets)
+### 🔗 Building Scalable Distributed Systems
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=multi-threaded-key-value-store-rpc)](https://github.com/riccardoprosdocimi/multi-threaded-key-value-store-rpc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=multiple-multi-threaded-key-value-stores)](https://github.com/riccardoprosdocimi/multiple-multi-threaded-key-value-stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=single-server-key-value-store-tcp-udp)](https://github.com/riccardoprosdocimi/single-server-key-value-store-tcp-udp)
+### 🌐 Computer Networking 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=raw-sockets)](https://github.com/riccardoprosdocimi/raw-sockets)
+### 🖥️ Web Development
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=coinchat-front-end)](https://github.com/riccardoprosdocimi/coinchat-front-end)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=mini-shell)](https://github.com/riccardoprosdocimi/mini-shell)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=shapes-photo-album)](https://github.com/riccardoprosdocimi/shapes-photo-album)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=sliding-puzzle-game)](https://github.com/riccardoprosdocimi/sliding-puzzle-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-node-server-app)](https://github.com/riccardoprosdocimi/tuiter-node-server-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-react-web-app)](https://github.com/riccardoprosdocimi/tuiter-react-web-app)
+### 💽 Computer Systems
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=mini-shell)](https://github.com/riccardoprosdocimi/mini-shell)
+### 🧩 OOP/OOD
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=shapes-photo-album)](https://github.com/riccardoprosdocimi/shapes-photo-album)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=sliding-puzzle-game)](https://github.com/riccardoprosdocimi/sliding-puzzle-game)
 
 ## [<img src="/images/logos/forage_logo.png" alt="Forage Logo" width="100"/>](https://theforage.com/)
+### 🤖 AI
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-cognizant-ai)](https://github.com/riccardoprosdocimi/forage-cognizant-ai)
+### 🔙 Back-End Development
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-lyft-starter-repo)](https://github.com/riccardoprosdocimi/forage-lyft-starter-repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-jpmc-swe-task-3)](https://github.com/riccardoprosdocimi/forage-jpmc-swe-task-3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-citi-icg-tsd)](https://github.com/riccardoprosdocimi/forage-citi-icg-tsd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=gs-rest-service)](https://github.com/riccardoprosdocimi/gs-rest-service)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-cognizant-ai)](https://github.com/riccardoprosdocimi/forage-cognizant-ai)
 
 ## ⚡ Fun facts
 - 🏀 I'd played competitive basketball for 13 years and am a huge fan of it.
