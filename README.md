@@ -1,3 +1,5 @@
+![Banner](images/banner/github_banner.jpeg)
+
 ## Hi there 👋
 
 <!--
