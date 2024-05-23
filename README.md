@@ -69,6 +69,8 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-node-server-app)](https://github.com/riccardoprosdocimi/tuiter-node-server-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-react-web-app)](https://github.com/riccardoprosdocimi/tuiter-react-web-app)
 
+## [![Forage Logo](https://theforage.com/images/logos/favicon-32x32.png)](https://theforage.com/) Forage
+
 ## ⚡ Fun facts
 - 🏀 I'd played competitive basketball for 13 years and am a huge fan of it.
 - ✈️ I've been to 37 states and every continent except Antartica.
