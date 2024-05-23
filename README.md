@@ -56,7 +56,7 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Projects
-⬇️ Scroll down to view my pinned projects
+⬇️ Scroll down to view my pinned projects.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=raw-sockets)](https://github.com/riccardoprosdocimi/raw-sockets)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=multi-threaded-key-value-store-rpc)](https://github.com/riccardoprosdocimi/multi-threaded-key-value-store-rpc)
