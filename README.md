@@ -3,14 +3,26 @@
 # Hello world 👋🏼, I'm Riccardo!
 
 ## 👨🏻‍💻 About Me
-I'm a software engineer with a master's degree in Computer Science. I'm interested in distributed systems, cloud computing, back-end engineering, and AI.
+I'm a software engineer with a Master's degree in Computer Science. I'm interested in distributed systems, cloud computing, back-end engineering, and AI.
 
 ## 🔭 I’m currently looking for a junior software engineering role
+[![Portfolio](https://img.shields.io/badge/Portfolio-📁-%23F3FF00?&style=for-the-badge&labelColor=000000)](https://ricpro.net/)
 
-## ⚡ Fun facts
-- 🏀 I'd played competitive basketball for 13 years and am a huge fan of it.
-- ✈️ I've been to 37 states and every continent except Antartica.
-- 💻 👟 🏎 🏈 I'm passionate about technology, sneakers, cars, and football.
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/riccardoprosdocimi/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoprosdocimi&layout=compact&langs_count=20&hide=Jupyter%20Notebook,c" alt="Top Languages">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=riccardoprosdocimi&show_icons=true&theme=highcontrast&hide=issues,contribs&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi&count_bg=%23F3FF00&edge&title_bg=%23000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitor Count">
+</div>
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoprosdocimi&layout=compact&langs_count=20&hide=Jupyter%20Notebook,c)](https://github.com/riccardoprosdocimi/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riccardoprosdocimi&show_icons=true&theme=highcontrast&hide=issues,contribs&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage)
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi&count_bg=%23F3FF00&edge&title_bg=%23000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+-->
 
 ## 🛠 Skills
 ### 💻 Programming Languages
@@ -44,23 +56,26 @@ I'm a software engineer with a master's degree in Computer Science. I'm interest
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🚀 Projects
-- [Project 1](https://github.com/riccardoprosdocimi/project1): A brief description of what this project is about.
-- [Project 2](https://github.com/riccardoprosdocimi/project2): A brief description of what this project is about.
+⬇️ Scroll down to view my pinned projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=raw-sockets)](https://github.com/riccardoprosdocimi/raw-sockets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=multi-threaded-key-value-store-rpc)](https://github.com/riccardoprosdocimi/multi-threaded-key-value-store-rpc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=multiple-multi-threaded-key-value-stores)](https://github.com/riccardoprosdocimi/multiple-multi-threaded-key-value-stores)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=single-server-key-value-store-tcp-udp)](https://github.com/riccardoprosdocimi/single-server-key-value-store-tcp-udp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=coinchat-front-end)](https://github.com/riccardoprosdocimi/coinchat-front-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=mini-shell)](https://github.com/riccardoprosdocimi/mini-shell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=shapes-photo-album)](https://github.com/riccardoprosdocimi/shapes-photo-album)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=sliding-puzzle-game)](https://github.com/riccardoprosdocimi/sliding-puzzle-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-node-server-app)](https://github.com/riccardoprosdocimi/tuiter-node-server-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-react-web-app)](https://github.com/riccardoprosdocimi/tuiter-react-web-app)
+
+## ⚡ Fun facts
+- 🏀 I'd played competitive basketball for 13 years and am a huge fan of it.
+- ✈️ I've been to 37 states and every continent except Antartica.
+- 💻 👟 🏎 🏈 I'm passionate about technology, sneakers, cars, and football.
+- 🎓 I hold a Bachelor's degree in Marketing.
 
 ## 📫 How to reach me
-- Email: [riccardo.prosdocimi@gmail.com](mailto:riccardo.prosdocimi@gmail.com)
-- LinkedIn: [riccardo-prosdocimi](https://linkedin.com/in/riccardo-prosdocimi)
-- Twitter: [@ricpr0](https://twitter.com/ricpr0)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoprosdocimi&layout=compact&langs_count=20&hide=Jupyter%20Notebook,c)](https://github.com/riccardoprosdocimi/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riccardoprosdocimi&show_icons=true&theme=highcontrast&hide=issues,contribs&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage)
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi&count_bg=%23F3FF00&edge&title_bg=%23000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riccardo.prosdocimi@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-prosdocimi)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ricpr0)
