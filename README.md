@@ -69,7 +69,12 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-node-server-app)](https://github.com/riccardoprosdocimi/tuiter-node-server-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-react-web-app)](https://github.com/riccardoprosdocimi/tuiter-react-web-app)
 
-## [![Forage Logo](https://theforage.com/images/logos/favicon-32x32.png)](https://theforage.com/) Forage
+## [<img src="/images/logos/forage_logo.png" alt="Forage Logo" width="100"/>](https://theforage.com/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-lyft-starter-repo)](https://github.com/riccardoprosdocimi/forage-lyft-starter-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-jpmc-swe-task-3)](https://github.com/riccardoprosdocimi/forage-jpmc-swe-task-3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-citi-icg-tsd)](https://github.com/riccardoprosdocimi/forage-citi-icg-tsd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=gs-rest-service)](https://github.com/riccardoprosdocimi/gs-rest-service)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-cognizant-ai)](https://github.com/riccardoprosdocimi/forage-cognizant-ai)
 
 ## ⚡ Fun facts
 - 🏀 I'd played competitive basketball for 13 years and am a huge fan of it.
