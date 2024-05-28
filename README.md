@@ -9,9 +9,7 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 [![Portfolio](https://img.shields.io/badge/Portfolio-📁-%23F3FF00?&style=for-the-badge&labelColor=000000)](https://ricpro.net/)
 
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/riccardoprosdocimi/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoprosdocimi&layout=compact&langs_count=20&hide=Jupyter%20Notebook,c" alt="Top Languages">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoprosdocimi&layout=compact&langs_count=20&hide=Jupyter%20Notebook,c" alt="Top Languages">
     <img src="https://github-readme-stats.vercel.app/api?username=riccardoprosdocimi&show_icons=true&theme=highcontrast&hide=issues,contribs&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="GitHub Stats">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi&count_bg=%23F3FF00&edge&title_bg=%23000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitor Count">
 </div>
