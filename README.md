@@ -16,6 +16,10 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi&count_bg=%23F3FF00&edge&title_bg=%23000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitor Count">
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="/images/leetcode/leetcode_50days_badge" alt="Leetcode 50 days badge" style="width: 300px; height: auto;">
+</div>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoprosdocimi&layout=compact&langs_count=20&hide=Jupyter%20Notebook,c)](https://github.com/riccardoprosdocimi/github-readme-stats)
 
