@@ -87,9 +87,9 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 ### 🛜 Computer Networking 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=raw-sockets)](https://github.com/riccardoprosdocimi/raw-sockets)
 ### 🌐 Web Development
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=coinchat-front-end)](https://github.com/riccardoprosdocimi/coinchat-front-end)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-node-server-app)](https://github.com/riccardoprosdocimi/tuiter-node-server-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=tuiter-react-web-app)](https://github.com/riccardoprosdocimi/tuiter-react-web-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=coinchat-front-end)](https://github.com/riccardoprosdocimi/coinchat-front-end)
 ### 💻 Computer Systems
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=mini-shell)](https://github.com/riccardoprosdocimi/mini-shell)
 ### 🧩 OOP/OOD
