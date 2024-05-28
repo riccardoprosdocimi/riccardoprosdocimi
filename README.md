@@ -40,7 +40,7 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-### 🛠️ Tools and Frameworks
+### 🧰 Tools and Frameworks
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=rest&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
