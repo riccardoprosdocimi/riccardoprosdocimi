@@ -97,7 +97,7 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=sliding-puzzle-game)](https://github.com/riccardoprosdocimi/sliding-puzzle-game)
 
 ## [<img src="/images/logos/forage_logo.png" alt="Forage Logo" width="100"/>](https://theforage.com/)
-### 🤖 AI
+### 🤖 AI/ML
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-cognizant-ai)](https://github.com/riccardoprosdocimi/forage-cognizant-ai)
 ### ⚙️ Back-End Development
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riccardoprosdocimi&repo=forage-lyft-starter-repo)](https://github.com/riccardoprosdocimi/forage-lyft-starter-repo)
