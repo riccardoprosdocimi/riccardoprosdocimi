@@ -5,7 +5,6 @@
 ## 👨🏻‍💻 About Me
 I'm a software engineer with a Master's degree in Computer Science. I'm interested in distributed systems, cloud computing, back-end engineering, and AI.
 
-## 🔭 I’m currently looking for a junior software engineering role
 [![Portfolio](https://img.shields.io/badge/Portfolio-📁-%23F3FF00?&style=for-the-badge&labelColor=000000)](https://ricpro.net/)
 
 <div style="display: flex; justify-content: space-between;">
