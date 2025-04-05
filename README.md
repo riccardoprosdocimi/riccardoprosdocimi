@@ -22,9 +22,9 @@ I'm a software engineer with a Master's degree in Computer Science. I'm interest
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riccardoprosdocimi&show_icons=true&theme=highcontrast&hide=issues,contribs&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi%2Friccardoprosdocimi&label=Total%20visitors&labelColor=%23000000&countColor=%23f3ff4d&labelStyle=upper)
+![Daily Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi%2F&label=Daily%20visitors&labelColor=%23000000&countColor=%23f3ff4d&labelStyle=upper)
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi%2Friccardoprosdocimi&label=Daily%20visitors&labelColor=%23000000&countColor=%23f3ff4d&labelStyle=upper)
+![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Friccardoprosdocimi%2F&label=Total%20visitors&labelColor=%23000000&countColor=%23f3ff4d&labelStyle=upper)
 -->
 
 ## 🛠 Skills
